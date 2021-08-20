@@ -4,7 +4,7 @@
                                                          Versão 1.0.0
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Script na versão 1.0, que faz com que, ao digitar X comando no chat, escolherá aleatóriamente entre Cara ou Coroa para aparecer no resultando!
+Script na versão 1.0, que faz com que, ao digitar X comando no chat, escolherá aleatóriamente entre 'Cara' ou 'Coroa' para aparecer no resultado!
 Script Open Source, podendo ser utilizado para testes e experimentos.
 Caso for utilizar, não remover os crédito, isso atrapalha o criador!
 
