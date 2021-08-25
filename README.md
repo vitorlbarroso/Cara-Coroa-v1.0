@@ -9,4 +9,4 @@ Script Open Source, podendo ser utilizado para testes e experimentos.
 Caso for utilizar, não remover os crédito, isso atrapalha o criador!
 
 Como configurar:
-1) Comando: No arquivo Server.lua (server-side/server.lua), você pode alterar o comando de jogar a moeda!@
+1) Comando: No arquivo Server.lua (server-side/server.lua), você pode alterar o comando de jogar a moeda!
